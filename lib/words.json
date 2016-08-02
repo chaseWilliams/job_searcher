@@ -1,0 +1,9 @@
+{
+  "good": [
+    "ruby",
+    "backend"
+  ],
+  "bad": [
+    "rails"
+  ]
+}
