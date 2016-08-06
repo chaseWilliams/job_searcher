@@ -12,6 +12,6 @@ class String
     return self
   end
   def contains(pattern)
-    self.index(pattern).nil?
+    !(self.index(pattern).nil?)
   end
 end
